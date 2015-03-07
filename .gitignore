@@ -1,0 +1,12 @@
+# Ignore files
+.buildpath
+.project
+config.json
+
+
+#ignore filefold
+frameworks
+runtime
+.settings
+src/cocos
+src/framework
